@@ -3,6 +3,8 @@
 # 说明
 这个repo主要整理《Scratch编程入门与算法进阶》程晨著的Scrach代码，教儿子的过程中，每个都进行了实践，同时发现书中例子的不少错误，顺便把所做都整理一下。
 
+代码采用官网下载的Scratch Desktop进行编辑（Version 3.6.0 Electron	4.2.9 Chrome	69.0.3497.128）
+
 内容暂时先按照这本书的章节进行整理。
 
 个人使用直接用，如果要商用请联系我（chenggang.cg26@gmail.com）
